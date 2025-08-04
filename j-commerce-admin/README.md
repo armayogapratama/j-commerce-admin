@@ -1,4 +1,4 @@
-# j-commerce-admin
+J-commerce-admin
 
 How to run
 
